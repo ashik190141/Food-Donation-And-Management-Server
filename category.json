@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "category": "Fresh Produce"
+  },
+  {
+    "id": "2",
+    "category": "Ready-to-Eat Meals"
+  },
+  {
+    "id": "3",
+    "category": "Hygiene Products"
+  },
+  {
+    "id": "4",
+    "category": "School Supplies"
+  },
+  {
+    "id": "5",
+    "category": "Elderly Assistance"
+  },
+  {
+    "id": "6",
+    "category": "Winter Clothing"
+  },
+  {
+    "id": "7",
+    "category": "Baby and Infant Care"
+  },
+  {
+    "id": "8",
+    "category": "Homelessness Support"
+  },
+  {
+    "id": "9",
+    "category": "Healthcare Essentials"
+  },
+  {
+    "id": "10",
+    "category": "Farmers Market"
+  },
+  {
+    "id": "11",
+    "category": "Emergency Preparedness"
+  },
+  {
+    "id": "12",
+    "category": "Nutritional Supplements"
+  }
+]
